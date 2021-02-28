@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/schoology-tutorial/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/schoology-tutorial/static/js/main.a898758a.chunk.js",
+    "main.js.map": "/schoology-tutorial/static/js/main.a898758a.chunk.js.map",
+    "runtime-main.js": "/schoology-tutorial/static/js/runtime-main.789b9557.js",
+    "runtime-main.js.map": "/schoology-tutorial/static/js/runtime-main.789b9557.js.map",
+    "static/js/2.ca571c80.chunk.js": "/schoology-tutorial/static/js/2.ca571c80.chunk.js",
+    "static/js/2.ca571c80.chunk.js.map": "/schoology-tutorial/static/js/2.ca571c80.chunk.js.map",
+    "static/js/3.f9cdd8a7.chunk.js": "/schoology-tutorial/static/js/3.f9cdd8a7.chunk.js",
+    "static/js/3.f9cdd8a7.chunk.js.map": "/schoology-tutorial/static/js/3.f9cdd8a7.chunk.js.map",
+    "index.html": "/schoology-tutorial/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/schoology-tutorial/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ca571c80.chunk.js.LICENSE.txt": "/schoology-tutorial/static/js/2.ca571c80.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/schoology-tutorial/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789b9557.js",
+    "static/js/2.ca571c80.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a898758a.chunk.js"
+  ]
+}
